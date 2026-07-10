@@ -2,8 +2,7 @@
 Business Intelligence Portfolio built with Power BI, SQL and DAX.
 # 📊 Power BI Business Intelligence Portfolio
 
-A collection of Business Intelligence dashboards developed with Power BI to support business monitoring and data-driven decision making.
-
+A portfolio of real-world Business Intelligence solutions built with Power BI for business operations, sales, marketing and performance analysis.
 > **Note:** All dashboards use anonymized and scaled data for portfolio purposes. Business logic, visualizations and KPIs remain representative of the original solutions.
 
 ---
