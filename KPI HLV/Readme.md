@@ -18,7 +18,7 @@ This dashboard provides a comprehensive view of coach performance by monitoring 
 - Occupancy
 - Average Revenue per Student (ARPS)
 - Customer Retention
-- L0–L8 Customer Journey
+- LS0–LS8 Customer Journey
 - Coach Ranking
 
 ---
