@@ -1,6 +1,6 @@
 # 👨‍🏫 Coach Performance Dashboard
 
-![Coach Performance Dashboard](HLV overview.png)
+![KPI HLV](HLV overview.png)
 
 ---
 
