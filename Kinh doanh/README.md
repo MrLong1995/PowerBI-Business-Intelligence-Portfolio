@@ -1,6 +1,6 @@
 # 📊 Business Performance Dashboard
 
-![Business Performance Dashboard](business-performance-dashboard.png)
+![Business Performance Dashboard](PT kinh doanh.png)
 
 ---
 
