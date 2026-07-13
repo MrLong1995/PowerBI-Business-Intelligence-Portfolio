@@ -1,7 +1,6 @@
 # 📊 Business Performance Dashboard
 
-![Business Performance Dashboard](PT kinh doanh.png)
-
+![Business Performance Dashboard](PT%20kinh%20doanh.png)
 ---
 
 ## Business Objective
