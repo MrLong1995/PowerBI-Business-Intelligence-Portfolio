@@ -1,7 +1,6 @@
 # 👨‍🏫 Coach Performance Dashboard
 
-![KPI HLV](HLV overview.png)
-
+<img src="HLV%20overview.png" width="100%">
 ---
 
 ## Business Objective
